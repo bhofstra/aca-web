@@ -1,0 +1,26 @@
+---
+title: "New Paper in Social Networks"
+date: 2025-07-31
+categories: [News, Media, Public Sociology]
+---
+
+
+#### Thrilled to share my latest publication in the journal Social Networks, together with Beate Völker (lead), Rense Corten, and Frank van Tubergen.
+
+In this paper we use computational methods (for insiders, specifically the Network Scale-Up Method) to calculate both network size and its determinants, as well as network homogeneity and its determinants. This is a project that came out of our earlier popular publication at Quest where they asked us similar questions!
+
+We find fascinating patterns where average network size across a representative set of respondents in the Netherlands is about 518 people. But more importantly, it decreases with age, unemployment, lower income, lower house values, lower education, and fewer people in a household. Additionally, we find a pretty strong presence of gender and educational homogeneity.
+
+These findings have important implications for Dutch social structure as to who is at risk to become socially isolated, who has less access to instrumental means, and as to where social barriers between groups exist.
+
+Here are the Highlights to the paper: <br>
+- The scale-up method with an exceptionally large number of items reveals extended networks of residents in the Netherlands, <br>
+- in particular, having a job and living in a large household matter for acquaintance networks, while <br>
+- the influence of other background characteristics on network size is not strong and <br>
+- extended networks are segregated according to gender and education, similar to the core networks as previously shown. <br>
+
+You can find the paper [**here**](https://www.sciencedirect.com/science/article/pii/S0378873325000383){target="_blank"}.
+
+You can find the replication website to the paper [**here**](https://bhofstra.github.io/netsize_dutch/){target="_blank"}.
+
+

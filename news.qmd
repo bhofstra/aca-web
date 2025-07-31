@@ -1,0 +1,54 @@
+---
+title: "News"
+---
+
+
+
+::: {.columns}
+
+::: {.column width="1/3"}
+<div class="news-card">
+
+#### **New website launch!**
+
+I made a new website: far more versatile for my purposes, more interesting content <br> <br>
+
+[Read more →](news/launchwebsite2025.qmd)
+</div>
+:::
+
+
+::: {.column width="1/3"}
+<div class="news-card">
+
+#### **New Paper in Social Networks**
+
+We just published paper in Social Networks: by Beate Volker, Bas Hofstra, Rense Corten, and Frank van Tubergen <br> <br>
+[Read more →](news/socialnetworks2025.qmd)
+</div>
+:::
+
+::: {.column width="1/3"}
+<div class="news-card">
+
+#### **Interview on national television (RTL EditieNL)**
+
+Our Social Networks (2025) study was featured on national television: I was interviewed by RTL EditieNL (in Dutch) <br> <br>
+
+[Read more →](news/editienl2025.qmd)
+</div>
+:::
+
+::: {.column width="1/3"}
+<div class="news-card">
+
+#### **Study featured in national newspaper (de Volkskrant)**
+
+Our Social Networks (2025) study was featured in a national newspaper: de Volskrant wrote a piece about it (in Dutch) <br> <br>
+
+[Read more →](news/volkskrant2025.qmd)
+</div>
+:::
+
+
+:::

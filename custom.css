@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+
+$footer-bg: #1a1a1a;
+
+.news-card {
+  background-color: #f9fafb;  /* soft light background */
+  border: 1px solid #ddd;     /* subtle border */
+  border-radius: 8px;         /* rounded corners */
+  padding: 1rem;              /* spacing inside card */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* subtle shadow */
+  margin: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+}
+
+.news-card h3 {
+  margin-top: 0;
+  color: #0077cc;  /* a nice blue for headlines */
+}
+
+.news-card p {
+  flex-grow: 1;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.news-card a.read-more {
+  align-self: flex-start;
+  color: #0077cc;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+.news-card a.read-more:hover {
+  border-color: #0077cc;
+}

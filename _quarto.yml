@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "bashofstra.com"
+  site-url: "https://www.bashofstra.com"
+  navbar:
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Media"
+        href: media.qmd
+      - text: "CV"
+        href: files/cv.pdf
+    left:
+      - text: "{{< iconify fa6-brands google-scholar >}}"
+        href: https://scholar.google.com/citations?user=Nx7pDywAAAAJ
+      - icon: github
+        href: https://github.com/bhofstra
+      - text: "{{< iconify fa6-brands orcid >}}"
+        href: https://orcid.org/0000-0002-9052-956X
+      - text: "{{< iconify fa6-brands researchgate >}}"
+        href:  https://www.researchgate.net/profile/Bas-Hofstra
+      - icon: mortarboard
+        href: https://www.ru.nl/en/people/hofstra-b
+      - text: "{{< iconify fa6-brands linkedin >}}"
+        href: https://www.linkedin.com/in/bashofstra/
+      - text: "{{< iconify ri bluesky-fill >}}"
+        href: https://bsky.app/profile/bashofstra.bsky.social
+      - icon: envelope
+        aria-label: email
+        href: mailto:bas.hofstra@ru.nl
+  page-footer:
+      right:
+        - text: "Site made with <a href='https://www.r-project.org/' target='_blank'> <img src='https://www.r-project.org/logo/Rlogo.svg' alt='R Project' width='16' height='16' style='vertical-align: middle;' /></a>,  <a href='https://quarto.org/' target='_blank'><img src='https://quarto.org/favicon.png' width=14></a>, and  <a href='https://github.com' target='_blank' title='GitHub'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg' alt='GitHub' width='15' height='15' style='vertical-align: middle; filter: invert(100%);' /> </a><br>
+        Source code on my <a href='https://github.com/bhofstra/aca-web' target='_blank'>GitHub repo</a>"
+      left: |
+        <span class="faux-block">{{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}  2025 Bas Hofstra </span> <br>
+        <span class="faux-block">All content licensed under <br>
+        [{{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+
+
+format:
+  html:
+    include-before-body: functions.js
+    theme: 
+      - cosmo
+      - custom.css
+    toc: true

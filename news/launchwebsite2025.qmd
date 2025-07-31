@@ -1,0 +1,23 @@
+---
+title: "New website launch!"
+date: 2025-07-31
+categories: [News, Website, Update]
+---
+
+
+#### Welcome to My New Website
+
+I'm excited to launch my new **personal academic website**, powered with [**Quarto**](https://quarto.org/){target="_blank"}, [**R**](https://www.r-project.org/){target="_blank"}, and [**Github**](https://github.com/){target="_blank"}. The source files for the website are found on [**my Github repository**](https://github.com/bhofstra/aca-web){target="_blank"}.
+
+This space brings together information on my **research**, **teaching**, **media appearances**, and **projects** in a clear, accessible format. You'll find:
+
+- An up-to-date overview of my **publications** and working papers, all with PDF and most with code
+- A section on my **teaching activities** and supervision 
+- A (hopefully) regularly updated **news** feed highlighting interviews, articles, and upcoming talks  
+- In the future: downloadable materials and links for students and collaborators  
+- All in all a clean, responsive design that works on desktop and mobile
+
+Feel free to explore, let me know what you think, and revisitt for updates!
+
+Thanks for visiting!
+
