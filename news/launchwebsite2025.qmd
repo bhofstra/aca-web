@@ -1,23 +1,40 @@
 ---
 title: "New website launch!"
-date: 2025-07-31
+date: 2025-08-01
 categories: [News, Website, Update]
 ---
 
 
-#### Welcome to My New Website
+#### 🚀 Welcome to My New Academic Website
 
-I'm excited to launch my new **personal academic website**, powered with [**Quarto**](https://quarto.org/){target="_blank"}, [**R**](https://www.r-project.org/){target="_blank"}, and [**Github**](https://github.com/){target="_blank"}. The source files for the website are found on [**my Github repository**](https://github.com/bhofstra/aca-web){target="_blank"}.
 
-This space brings together information on my **research**, **teaching**, **media appearances**, and **projects** in a clear, accessible format. You'll find:
+I'm excited to share the launch of my new **personal academic website**, built with  
+[**Quarto**](https://quarto.org/){target="_blank"}, [**R**](https://www.r-project.org/){target="_blank"}, and [**GitHub**](https://github.com/){target="_blank"}.
 
-- An up-to-date overview of my **publications** and working papers, all with PDF and most with code
-- A section on my **teaching activities** and supervision 
-- A (hopefully) regularly updated **news** feed highlighting interviews, articles, and upcoming talks  
-- In the future: downloadable materials and links for students and collaborators  
-- All in all a clean, responsive design that works on desktop and mobile
+> 💡 Curious how it's made? The full source code is available on  
+[**my GitHub repository**](https://github.com/bhofstra/aca-web){target="_blank"}.
 
-Feel free to explore, let me know what you think, and revisitt for updates!
+---
 
-Thanks for visiting!
+This site brings together my work in **research**, **teaching**, **media**, and **collaboration** — all in a clear, accessible format. Here’s what you’ll find:
 
+### 👋 About
+A short blurb with some of my activities and things I love.
+
+### 📝 Research  
+An up-to-date overview of my published, forthcoming, and working papers. Arguably the most important part of the website, and the one I devoted most time to. All papers have clickable links to the PDFs and many papers have clickable links to code and companion websites. 
+
+### 🎓 Teaching
+Courses I coordinate or lecture in, along with my supervision of theses and research projects. In the future I hope to include syllabi and the sorts here.
+
+### 📰 Media  
+A (hopefully) regularly updated feed with interviews, opinion pieces, and media mentions.
+
+### 📁 News
+A section with news, announcements of new publications, downloadable materials (perhaps code snippets in the future) and links for students, collaborators, and curious minds.
+
+---
+
+I wanted to move away from the Wix point and click system as it wasn't versatile for my purposes anymore. The new website is designed to be **clean**, **minimal**, **responsive**, and **scalable** and this site works seamlessly on desktop and mobile. 
+
+Thanks for stopping by — feel free to explore, and check back soon for updates. 
