@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -213,7 +248,12 @@ document.head.appendChild(script);
 <p>I <strong>write papers</strong> that are widely discussed — in <a href="https://www.nature.com/articles/d41586-024-02130-0" target="_blank"><strong>Nature</strong></a> and <a href="https://www.science.org/doi/10.1126/science.2020.368.6491.twil" target="_blank"><strong>Science</strong></a>. I’m <strong>invited to write</strong> about my perspective, for instance in <a href="https://www.nature.com/articles/d41586-024-00291-6" target="_blank"><strong>Nature</strong></a>. I am a <strong>principal investigator that mentors</strong> interns, data managers, PhDs, and postdocs. I write grant proposals, sometimes successfully (NWO, NSF, ODISSEI), oftentimes not. I <strong>develop sociological theories</strong>, <strong>computational methods</strong>, and coordinate, collect, link, and enrich <strong>big data</strong>. I <strong>lead</strong> interdisciplinary, cross-national collaborations. I (am invited to) <strong>present</strong> my work around the world. I <strong>review</strong> at journals like <em>Nature</em> and <em>PNAS</em>, at disciplinary journals like <em>American Sociological Review</em> and <em>American Journal of Sociology</em>, or at subject journals like <em>Social Networks</em>. I am my department’s <strong>Data Steward</strong>, teach and practice <strong>Open Science</strong>, love <strong>data visualization</strong>, and am an elected member of the <strong>Radboud Young Academy</strong>. I <strong>teach</strong> and <strong>develop courses</strong> at all levels, am a member of the <strong>Educational Committee</strong>, and <strong>Test Committee</strong>, and am <a href="https://snass.netlify.app/" target="_blank"><strong>writing an Open Access book</strong></a> on network analysis with <a href="https://www.jochemtolsma.nl/" target="_blank"><strong>Jochem Tolsma</strong></a>.</p>
 <p>Research dissemination is important to me, and my work is discussed <a href="https://www.volkskrant.nl/wetenschap/een-nederlander-kent-zo-n-568-mensen-soort-zoekt-soort-en-opleiding-is-een-bepalende-factor~b0c4390d/" target="_blank"><strong>nationally</strong></a> and <a href="https://www.insidehighered.com/news/2020/04/16/underrepresented-scholars-outperform-majority-peers-terms-novel-research" target="_blank"><strong>internationally</strong></a>. I’m interviewed on <a href="https://www.rtl.nl/nieuws/uitzendingen/video/8c795d92-6149-4d55-a86e-16c76c3ddfaf/aflevering-200" target="_blank"><strong>national television</strong></a>, and <a href="https://www.nporadio1.nl/fragmenten/focus/c9a54500-6824-4a48-9bf9-ac2722c81f93/2018-10-31-zijn-er-ook-glazen-plafonds-in-de-wetenschap" target="_blank"><strong>radio</strong></a>, and in <a href="https://www.elmundo.es/papel/futuro/2023/01/16/63c58e6efdddfff9a28b45c8.html" target="_blank"><strong>newspapers</strong></a>. I write popular pieces <a href="https://www.socialevraagstukken.nl/vrienden-en-privacy-vormen-op-facebook-een-ongelukkige-combinatie/" target="_blank"><strong>in Dutch</strong></a> and <a href="https://www.timeshighereducation.com/blog/scientific-community-needs-constant-self-assessment-race-and-gender" target="_blank"><strong>English</strong></a>.</p>
 <p>When I’m not at work, I’m play guitar and drums, read books on whatever curious topic, curate my science fiction book collection, hike, and watch movies. But my favorite pastime is spending time with my son.</p>
-<p>Have a look around, all PDFs of my papers are here, and you can find links to a lot of data and code. I’m planning to fill up this space with more materials: course manuals, (Quarto) presentations, code, and so forth.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">"hello world"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "hello world"</code></pre>
+</div>
+</div>
 
 
 

@@ -47,6 +47,8 @@ website:
         <span class="faux-block">All content licensed under <br>
         [{{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
 
+execute:
+  freeze: auto
 
 format:
   html:

@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2ec7cd3d-000e-40e2-a474-f9ff80f80ce3
+      url: https://ubiquitous-pudding-57af16.netlify.app

@@ -12,5 +12,6 @@ Research dissemination is important to me, and my work is discussed [**nationall
 
 When I'm not at work, I'm play guitar and drums, read books on whatever curious topic, curate my science fiction book collection, hike, and watch movies. But my favorite pastime is spending time with my son.
 
-Have a look around, all PDFs of my papers are here, and you can find links to a lot of data and code. I'm planning to fill up this space with more materials: course manuals, (Quarto) presentations, code, and so forth.
-
+```{r}
+print("hello world")
+```
