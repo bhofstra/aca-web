@@ -7,16 +7,17 @@ categories: [News, Website, Update]
 
 #### 🚀 Welcome to My New Academic Website
 
-
 I'm excited to share the launch of my new **personal academic website**, built with  
-[**Quarto**](https://quarto.org/){target="_blank"}, [**R**](https://www.r-project.org/){target="_blank"}, and [**GitHub**](https://github.com/){target="_blank"}.
+[**Quarto**](https://quarto.org/){target="_blank"}, [**R**](https://www.r-project.org/){target="_blank"}, [**GitHub**](https://github.com/){target="_blank"}, hosted through [**Netlify**](https://www.netlify.com/){target="_blank"}.
 
 > 💡 Curious how it's made? The full source code is available on  
 [**my GitHub repository**](https://github.com/bhofstra/aca-web){target="_blank"}.
 
 ---
 
-This site brings together my work in **research**, **teaching**, **media**, and **collaboration** — all in a clear, accessible format. Here’s what you’ll find:
+This site brings together my work in **research**, **teaching**, **media** appearances, and so forth — all in a clear, accessible format. I wanted to move away from the Wix point and click system as it wasn't versatile for my purposes anymore. The new website is designed to be **clean**, **minimal**, **responsive**, and **scalable** and this site works seamlessly on desktop and mobile. 
+
+Here’s what you’ll find:
 
 ### 👋 About
 A short blurb with some of my activities and things I love.
@@ -33,8 +34,10 @@ A (hopefully) regularly updated feed with interviews, opinion pieces, and media 
 ### 📁 News
 A section with news, announcements of new publications, downloadable materials (perhaps code snippets in the future) and links for students, collaborators, and curious minds.
 
----
+### 📄 Full CV
+My full CV with a full accounting of my work.
 
-I wanted to move away from the Wix point and click system as it wasn't versatile for my purposes anymore. The new website is designed to be **clean**, **minimal**, **responsive**, and **scalable** and this site works seamlessly on desktop and mobile. 
+
+---
 
 Thanks for stopping by — feel free to explore, and check back soon for updates. 
