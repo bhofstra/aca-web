@@ -13,5 +13,5 @@ Research dissemination is important to me, and my work is discussed [**nationall
 When I'm not at work, I'm play guitar and drums, read books on whatever curious topic, curate my science fiction book collection, hike, and watch movies. But my favorite pastime is spending time with my son.
 
 ```{r}
-print("hello world")
+print("does this work immediately?")
 ```
