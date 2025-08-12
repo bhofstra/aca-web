@@ -9,9 +9,21 @@ title: "News"
 ::: {.column width="1/3"}
 <div class="news-card">
 
+#### **Interview in Trouw**
+
+I was interviewed on how students can build durable networks in the national newspaper Trouw (in Dutch). <br> <br>
+
+[Read more →](news/trouw2025.qmd)
+</div>
+:::
+
+
+::: {.column width="1/3"}
+<div class="news-card">
+
 #### **New website launch!**
 
-I made a new website: far more versatile for my purposes, more interesting content <br> <br>
+I made a new website: far more versatile for my purposes, more interesting content. <br> <br>
 
 [Read more →](news/launchwebsite2025.qmd)
 </div>
@@ -23,7 +35,7 @@ I made a new website: far more versatile for my purposes, more interesting conte
 
 #### **New Paper in Social Networks**
 
-We just published paper in Social Networks: by Beate Volker, Bas Hofstra, Rense Corten, and Frank van Tubergen <br> <br>
+We just published paper in Social Networks: by Beate Volker, Bas Hofstra, Rense Corten, and Frank van Tubergen. <br> <br>
 [Read more →](news/socialnetworks2025.qmd)
 </div>
 :::
@@ -33,7 +45,7 @@ We just published paper in Social Networks: by Beate Volker, Bas Hofstra, Rense 
 
 #### **Interview on national television (RTL EditieNL)**
 
-Our Social Networks (2025) study was featured on national television: I was interviewed by RTL EditieNL (in Dutch) <br> <br>
+Our Social Networks (2025) study was featured on national television: I was interviewed by RTL EditieNL (in Dutch). <br> <br>
 
 [Read more →](news/editienl2025.qmd)
 </div>
@@ -44,7 +56,7 @@ Our Social Networks (2025) study was featured on national television: I was inte
 
 #### **Study featured in national newspaper (de Volkskrant)**
 
-Our Social Networks (2025) study was featured in a national newspaper: de Volskrant wrote a piece about it (in Dutch) <br> <br>
+Our Social Networks (2025) study was featured in a national newspaper: de Volskrant wrote a piece about it (in Dutch). <br> <br>
 
 [Read more →](news/volkskrant2025.qmd)
 </div>
