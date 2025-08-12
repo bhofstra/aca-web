@@ -4,6 +4,7 @@ project:
 
 website:
   title: "bashofstra.com"
+  description: "Bas Hofstra's website: research, teaching, and media."
   site-url: "https://www.bashofstra.com"
   navbar:
     right:
