@@ -9,18 +9,32 @@ about:
   links:
       - text: "{{< iconify fa6-brands google-scholar >}}"
         href: https://scholar.google.com/citations?user=Nx7pDywAAAAJ
+        target: _blank
+        rel: noopener
       - icon: github
         href: https://github.com/bhofstra
+        target: _blank
+        rel: noopener
       - text: "{{< iconify fa6-brands orcid >}}"
         href: https://orcid.org/0000-0002-9052-956X
+        target: _blank
+        rel: noopener
       - text: "{{< iconify fa6-brands researchgate >}}"
         href:  https://www.researchgate.net/profile/Bas-Hofstra
+        target: _blank
+        rel: noopener
       - icon: mortarboard
         href: https://www.ru.nl/en/people/hofstra-b
+        target: _blank
+        rel: noopener
       - text: "{{< iconify fa6-brands linkedin >}}"
         href: https://www.linkedin.com/in/bashofstra/
+        target: _blank
+        rel: noopener
       - text: "{{< iconify ri bluesky-fill >}}"
         href: https://bsky.app/profile/bashofstra.bsky.social
+        target: _blank
+        rel: noopener
       - icon: envelope
         aria-label: email
         href: mailto:bas.hofstra@ru.nl
@@ -28,4 +42,4 @@ about:
 
 Welcome! I am a tenured Assistant Professor at Radboud University's Department of Sociology. I got my PhD from Utrecht University's Department of Sociology and was Postdoctoral Research Fellow at Stanford University.
 
-[**My work**](https://scholar.google.nl/citations?user=Nx7pDywAAAAJ&hl=en) **orbits the study of diversity, stratification, and innovation.** It captures longitudinal systems of social and cultural exchange: from the gestation and birth of networks, careers, ideas, or innovations, to their use, up until their eventual cessation. As such, I strive for three interrelated goals: (i) answering substantive questions on causes and effects of social networks, while (ii) contributing to social theory, and (iii) using computational methods and big data. My research appeared (among others) in [**PNAS,**](https://www.pnas.org/content/early/2020/04/10/1915378117) [**American Sociological Review**](https://journals.sagepub.com/doi/abs/10.1177/0003122417705656?journalCode=asra), [**Social Forces**](https://academic.oup.com/sf/article-abstract/doi/10.1093/sf/soaa031/5823518), [**Social Networks**](https://www.sciencedirect.com/science/article/pii/S0378873315000453), and [**Nature Human Behaviour**](https://www.nature.com/articles/s41562-019-0751-y), was honored with several grants and awards, and [**my work**](https://www.nature.com/articles/d41586-024-00291-6) is [**widely discussed**](https://www.youtube.com/watch?v=zuAnbApl7A0) [**in Dutch**](https://www.volkskrant.nl/wetenschap/een-nederlander-kent-zo-n-568-mensen-soort-zoekt-soort-en-opleiding-is-een-bepalende-factor~b0c4390d/) and [**international**](https://www.insidehighered.com/news/2020/04/16/underrepresented-scholars-outperform-majority-peers-terms-novel-research) [**media**](https://www.smithsonianmag.com/science-nature/deep-biases-prevent-diverse-talent-advancing-180975033/)!
+[**My work**](https://scholar.google.nl/citations?user=Nx7pDywAAAAJ&hl=en){target="_blank"} **orbits the study of diversity, stratification, and innovation.** It captures longitudinal systems of social and cultural exchange: from the gestation and birth of networks, careers, ideas, or innovations, to their use, up until their eventual cessation. As such, I strive for three interrelated goals: (i) answering substantive questions on causes and effects of social networks, while (ii) contributing to social theory, and (iii) using computational methods and big data. My research appeared (among others) in [**PNAS,**](https://www.pnas.org/content/early/2020/04/10/1915378117){target="_blank"} [**American Sociological Review**](https://journals.sagepub.com/doi/abs/10.1177/0003122417705656?journalCode=asra){target="_blank"}, [**Social Forces**](https://academic.oup.com/sf/article-abstract/doi/10.1093/sf/soaa031/5823518){target="_blank"}, [**Social Networks**](https://www.sciencedirect.com/science/article/pii/S0378873315000453){target="_blank"}, and [**Nature Human Behaviour**](https://www.nature.com/articles/s41562-019-0751-y){target="_blank"}, was honored with several grants and awards, and [**my work**](https://www.nature.com/articles/d41586-024-00291-6){target="_blank"} is [**widely discussed**](https://www.youtube.com/watch?v=zuAnbApl7A0){target="_blank"} [**in Dutch**](https://www.volkskrant.nl/wetenschap/een-nederlander-kent-zo-n-568-mensen-soort-zoekt-soort-en-opleiding-is-een-bepalende-factor~b0c4390d/){target="_blank"} and [**international**](https://www.insidehighered.com/news/2020/04/16/underrepresented-scholars-outperform-majority-peers-terms-novel-research){target="_blank"} [**media**](https://www.smithsonianmag.com/science-nature/deep-biases-prevent-diverse-talent-advancing-180975033/){target="_blank"}!
