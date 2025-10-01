@@ -18,16 +18,16 @@ Check out my work! Most of my recent papers have full replication websites under
   <tr>
     <!-- Left column: publication text -->
     <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
-Tolsma, J., **Hofstra, B.**, Mulders, A.M. (2025). Knowledge Lost, Parity Gained? COVID-19 and Gender Gaps in Dutch Academia. ***Scientometrics***, Forthcoming. 
+Tolsma, J., **Hofstra, B.**, Mulders, A.M. (2025). Knowledge Lost, Parity Gained? COVID-19 and Gender Gaps in Dutch Academia. ***Scientometrics***, Online first. 
 </td>
     <!-- Right column: altmetric donut badge -->
     <td style="vertical-align: middle; width: 5%; text-align: center;">
-      <span class="altmetric-embed" data-doi="" data-badge-type="donut" data-hide-no-mentions="true"></span>
+      <span class="altmetric-embed" data-doi="10.1007/s11192-025-05428-6" data-badge-type="donut" data-hide-no-mentions="true"></span>
     </td>
   </tr>
 </table>
 
-<a href=https://www.springernature.com class="btn btn-outline-secondary btn-sm" target="_blank">
+<a href=https://doi.org/10.1007/s11192-025-05428-6 class="btn btn-outline-secondary btn-sm" target="_blank">
  🌐 View Article
 </a>
 <a href=https://scholar.google.com class="btn btn-outline-secondary btn-sm" target="_blank">
