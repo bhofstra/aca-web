@@ -1074,7 +1074,7 @@ van de Samenleving. In J. van den Berg, M. Ham, R. Bosman, & G. Engbersen
   <tr>
     <!-- Left column: publication text -->
     <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
-Quite, W.#, **Hofstra, B.#**, Knigge, A. & Schipper, de N.C. (2013). De Werking van Sociaal Kapitaal in het Statusverwervingsproces in Nederland. ***Mens en Maatschappij, 88***(4), 400-425. # = Shared first author
+Quite, W., **Hofstra, B.**, Knigge, A. & Schipper, de N.C. (2013). De Werking van Sociaal Kapitaal in het Statusverwervingsproces in Nederland. ***Mens en Maatschappij, 88***(4), 400-425. # = Shared first author
  </td>
     <!-- Right column: altmetric donut badge -->
     <td style="vertical-align: middle; width: 5%; text-align: center;">
@@ -1119,7 +1119,7 @@ Mulders, A.M., Janietz, C., **Hofstra, B.** & Tolsma, J. Leaving for More or Set
 
 Mulders, A.M., **Hofstra, B.** & Tolsma, J.  Mentoring for Gender Equality in Early-Career Grant Receipt. Submitted.
 
-**Hofstra, B.**, Tolsma, J., & Jeroense, T. The Impact of Extended Networks on Political Talk: A Factorial Survey Experiment Among Multiple Ethnic Groups in the Netherlands. In progress, draft available.
+**Hofstra, B.**, Tolsma, J., & Jeroense, T. The Impact of Extended Networks on Political Talk: A Factorial Survey Experiment Among Multiple Ethnic Groups in the Netherlands. Submitted.
 
 **Hofstra, B.** & McFarland, D. Disciplinary and Interdisciplinary Exchange of Scholars. In progress, draft available.
 
@@ -1129,6 +1129,13 @@ Gomez, C., Munoz-Najar Galvez, S., Herman, A. & **Hofstra, B.** Inequality Homog
 
 
 # Data, Code, Replication Websites
+
+Open access replication website to Tolsma, **Hofstra**, and Mulders (2025): [Knowledge lost, parity gained? COVID‑19 and gender gaps in Dutch academia](https://link.springer.com/article/10.1007/s11192-025-05428-6)
+
+<a href=https://coviddutchacademia.netlify.app/ class="btn btn-outline-secondary btn-sm" target="_blank">
+ 🌐 View Website
+</a>
+
 
 Open access replication website to Macanovic and **Hofstra** (2025): The Limit to Gender Equity in Science Communication
 
