@@ -30,7 +30,7 @@ Tolsma, J., **Hofstra, B.**, Mulders, A.M. (2025). Knowledge Lost, Parity Gained
 <a href=https://doi.org/10.1007/s11192-025-05428-6 class="btn btn-outline-secondary btn-sm" target="_blank">
  🌐 View Article
 </a>
-<a href=https://scholar.google.com class="btn btn-outline-secondary btn-sm" target="_blank">
+<a href=https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nx7pDywAAAAJ&sortby=pubdate&citation_for_view=Nx7pDywAAAAJ:HDshCWvjkbEC class="btn btn-outline-secondary btn-sm" target="_blank">
  🎓 Google Scholar
 </a>
 <a href="files/scientometrics2025.pdf" class="btn btn-outline-secondary btn-sm" target="_blank">
