@@ -1,0 +1,28 @@
+---
+title: "New paper in Scientometrics"
+date: 2025-07-31
+categories: [News, Science of science, Gender, Inequality, Public Sociology]
+---
+
+
+### I'm thrilled to share our latest study, published open access in Scientometrics. The paper is by Jochem Tolsma, myself, and Anne Maaike Mulders.
+
+🧐 We asked whether women in Dutch science show a stronger productivity decline than men during COVID-19
+
+🔭 We analyzed publication data from more than 8,000 scientists across all disciplines at all Dutch universities, covering the period from 1990 to 2022.
+
+📖 What did we find?
+- During COVID-19, scientists published about 33% fewer papers
+- Dutch science was hit hard: “lost” around 20,000 publications
+- Scientists with childcare responsibilities struggled to maintain productivity
+- Researchers with a migration background were also hit harder
+- Barriers to productivity remain persistent for women scientists
+- Yet, the productivity gender gap did not widen during COVID
+
+This is a key paper in the growing literature on the effects of COVID-19 on academia. It is done purely with webscraped data, and it is a showcase how you can do fine-grained analyses if you put in the work.
+
+[Here's the paper](https://link.springer.com/article/10.1007/s11192-025-05428-6){target="_blank"}.
+
+[Here's the replication website](https://coviddutchacademia.netlify.app/){target="_blank"}.
+
+

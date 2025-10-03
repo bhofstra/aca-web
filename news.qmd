@@ -6,6 +6,20 @@ title: "News"
 
 ::: {.columns}
 
+
+::: {.column width="1/3"}
+<div class="news-card">
+
+#### **New paper in Scientometrics**
+
+We just published open access in Scientometrics. What do we study an find? <br> <br>
+
+[Read more →](news/scientometrics2025.qmd)
+</div>
+:::
+
+
+
 ::: {.column width="1/3"}
 <div class="news-card">
 
