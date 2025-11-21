@@ -1,0 +1,22 @@
+---
+title: "New paper in European Sociological Review"
+date: 2025-11-21
+categories: [News, Science of science, Gender, Inequality, Public Sociology]
+---
+
+Thrilled to share our latest open access paper published in European Sociological Review by Saïd Unger, Raphael Heiberger, and myself!
+
+📖 [**Find the paper here**.](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaf037/8332223){target="_blank"}
+
+
+🔭What do we study?
+- We look at which scientists appears in the media as an increasingly important aspect of science (evaluation). 
+- We consider cumulative advantage, reputation and gender, as possible effects on whether or not someone gets mentioned in legacy media among >2000 German social science professors.
+
+🧐 What do we find?
+- Having appeared previously in the media significantly increases the probability to appear in the media again
+- This cumulative advantage is stronger for men than for women. 
+- Together with less mentions in the media for women this points to inequalities in media attention for women in science.
+- Reputation might get you into the media but it does not keep you there.
+
+This paper incorporates multiple dimension I find important: interdisciplinary team, [replication materials](https://osf.io/57fpq/overview){target="_blank"}, linking together cool digital trace data, all to answer an important sociological question.
