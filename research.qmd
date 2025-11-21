@@ -10,6 +10,54 @@ Check out my work! Most of my recent papers have full replication websites under
 
 ## 2025
 
+
+<!------------------------------------------->
+<!--- EUROPEAN SOCIOLOGICAL REVIEW 2025 --->
+<!------------------------------------------->
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- Left column: publication text -->
+    <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
+Heiberger, R., **Hofstra, B.**, Unger. S. (2025). Professors in the Media: Dynamics of Cumulative Advantage, Reputation, and Gender. ***European Sociological Review***, Online first. [All authors share lead authorship.]{.underline}
+</td>
+    <!-- Right column: altmetric donut badge -->
+    <td style="vertical-align: middle; width: 5%; text-align: center;">
+      <span class="altmetric-embed" data-doi="10.1093/esr/jcaf037" data-badge-type="donut" data-hide-no-mentions="true"></span>
+    </td>
+  </tr>
+</table>
+
+<a href=https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaf037/8332223 class="btn btn-outline-secondary btn-sm" target="_blank">
+ 🌐 View Article
+</a>
+<a href=https://scholar.google.com class="btn btn-outline-secondary btn-sm" target="_blank">
+ 🎓 Google Scholar
+</a>
+<a href="files/esr2025.pdf" class="btn btn-outline-secondary btn-sm" target="_blank">
+ 📄 View PDF
+</a>
+<a href=https://osf.io/57fpq/ class="btn btn-outline-secondary btn-sm" target="_blank">
+ <i class="bi bi-github" style="margin-right: 6px;"></i> View Code
+</a>
+<button class="btn btn-outline-secondary btn-sm" onclick="copyBibtex('esr2025')">
+ 📋 Copy BibTeX
+</button>
+
+<!-- Hidden BibTeX Entry -->
+<pre id="esr2025" style="display:none;">
+@article{heiberger2025professors,
+  title={Professors in the Media: Dynamics of Cumulative Advantage, Reputation, and Gender},
+  author={Heiberger, Raphael and Hofstra, Bas and Unger, Said},
+  journal={European Sociological Review},
+  volume={},
+  pages={},
+  year={2025},
+  publisher={Oxford University Press}
+}
+</pre>
+
+
 <!------------------------------------------->
 <!--- SCIENTOMETRICS 2025 --->
 <!------------------------------------------->
@@ -53,52 +101,6 @@ Tolsma, J., **Hofstra, B.**, Mulders, A.M. (2025). Knowledge Lost, Parity Gained
   pages={},
   year={2025},
   publisher={Springer Nature}
-}
-</pre>
-
-<!------------------------------------------->
-<!--- EUROPEAN SOCIOLOGICAL REVIEW 2025 --->
-<!------------------------------------------->
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- Left column: publication text -->
-    <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
-Heiberger, R., **Hofstra, B.**, Unger. S. (2025). Professors in the Media: Dynamics of Cumulative Advantage, Reputation, and Gender. ***European Sociological Review***, Forthcoming. [All authors share lead authorship.]{.underline}
-</td>
-    <!-- Right column: altmetric donut badge -->
-    <td style="vertical-align: middle; width: 5%; text-align: center;">
-      <span class="altmetric-embed" data-doi="10.1093/esr/jcaf037" data-badge-type="donut" data-hide-no-mentions="true"></span>
-    </td>
-  </tr>
-</table>
-
-<a href=https://corp.oup.com/ class="btn btn-outline-secondary btn-sm" target="_blank">
- 🌐 View Article
-</a>
-<a href=https://scholar.google.com class="btn btn-outline-secondary btn-sm" target="_blank">
- 🎓 Google Scholar
-</a>
-<a href="files/esr2025.pdf" class="btn btn-outline-secondary btn-sm" target="_blank">
- 📄 View PDF
-</a>
-<a href=https://osf.io/57fpq/ class="btn btn-outline-secondary btn-sm" target="_blank">
- <i class="bi bi-github" style="margin-right: 6px;"></i> View Code
-</a>
-<button class="btn btn-outline-secondary btn-sm" onclick="copyBibtex('esr2025')">
- 📋 Copy BibTeX
-</button>
-
-<!-- Hidden BibTeX Entry -->
-<pre id="esr2025" style="display:none;">
-@article{heiberger2025professors,
-  title={Professors in the Media: Dynamics of Cumulative Advantage, Reputation, and Gender},
-  author={Heiberger, Raphael and Hofstra, Bas and Unger, Said},
-  journal={European Sociological Review},
-  volume={},
-  pages={},
-  year={2025},
-  publisher={Oxford University Press}
 }
 </pre>
 
