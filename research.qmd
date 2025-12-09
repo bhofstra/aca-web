@@ -47,15 +47,15 @@ Survey Experiment in the Netherlands. ***Social Networks, 85***, 66-79.
 </button>
 
 <!-- Hidden BibTeX Entry -->
-<pre id="esr2025" style="display:none;">
-@article{heiberger2025professors,
-  title={Professors in the Media: Dynamics of Cumulative Advantage, Reputation, and Gender},
-  author={Heiberger, Raphael and Hofstra, Bas and Unger, Said},
-  journal={European Sociological Review},
-  volume={},
-  pages={},
-  year={2025},
-  publisher={Oxford University Press}
+<pre id="socialnetworks2026" style="display:none;">
+@article{hofstra2026dyads,
+  title={The Impact of Dyads and Extended Networks on Political Talk: A Factorial Survey Experiment in the Netherlands},
+  author={Hofstra, Bas and Jeroense, Thijmen and Tolsma, Jochem},
+  journal={Social Networks},
+  volume={85},
+  pages={66-79},
+  year={2026},
+  publisher={Elsevier}
 }
 </pre>
 
