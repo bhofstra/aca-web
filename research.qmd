@@ -36,7 +36,7 @@ Survey Experiment in the Netherlands. ***Social Networks, 85***, 66-79.
 <a href=https://scholar.google.com class="btn btn-outline-secondary btn-sm" target="_blank">
  🎓 Google Scholar
 </a>
-<a href="files/socialnetworks2025_2" class="btn btn-outline-secondary btn-sm" target="_blank">
+<a href="files/socialnetworks2025_2.pdf" class="btn btn-outline-secondary btn-sm" target="_blank">
  📄 View PDF
 </a>
 <a href=https://politicaltalk.netlify.app/ class="btn btn-outline-secondary btn-sm" target="_blank">
