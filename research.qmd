@@ -4,7 +4,7 @@ title: "Research"
 
 I lead cross-national, interdisciplinary collaborations and carry out (project-funded) research that is widely discussed, build upon, and used in policy. My work on diversity, stratification, and innovation crosscuts adolescent, social media, employee, experimental, and academic networks. This helps to understand the most fundamentally human processes of making social connections and their consequences as nuanced, complete, and large-scale as possible. It also appeals to my curiosity and enables what I value most: big ideas, interdisciplinarity, and leading teams to open science.
 
-Check out my work! Most of my recent papers have full replication websites under "View Code." You can also find my work on [**my Google Scholar**](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Nx7pDywAAAAJ){target="_blank"} and there are many details (presentations, grants, service, etc.) on [**my CV**](files/cv2025.pdf){target="_blank"}.
+Check out my work! Most of my recent papers have full replication websites under "View Code." You can also find my work on [**my Google Scholar**](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Nx7pDywAAAAJ){target="_blank"} and there are many details (presentations, grants, service, etc.) on [**my CV**](files/cv.pdf){target="_blank"}.
 
 # Peer-Reviewed Publications
 
@@ -42,7 +42,7 @@ Survey Experiment in the Netherlands. ***Social Networks, 85***, 66-79.
 <a href=https://politicaltalk.netlify.app/ class="btn btn-outline-secondary btn-sm" target="_blank">
  <i class="bi bi-github" style="margin-right: 6px;"></i> View Code
 </a>
-<button class="btn btn-outline-secondary btn-sm" onclick="copyBibtex('esr2025')">
+<button class="btn btn-outline-secondary btn-sm" onclick="copyBibtex('socialnetworks2026')">
  📋 Copy BibTeX
 </button>
 

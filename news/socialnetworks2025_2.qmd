@@ -1,0 +1,24 @@
+---
+title: "A new paper published in Social Networks"
+date: 2025-11-21
+categories: [News, Polarization, Dyads, Social Networks, Public Sociology]
+---
+
+Excited to share our latest open access study that was just published in Social Networks by Thijmen Jeroense, Jochem Tolsma, and myself!
+
+📖 [**Find the paper here**.](https://www.sciencedirect.com/science/article/pii/S0378873325000802){target="_blank"}
+
+
+🔭What do we study?
+
+- We ran an experiment with thousands of people in the Netherlands as to how they choose political discussion partners
+- We consider dyadic similarity and extended networks using network scale-up methodology
+
+🧐 What do we find?
+
+- The overwhelming majority of people in the Netherlands (>70%) disclose political opinions or engage in substantive debate
+- Men do so more often than women, as do theoretically educated rather than practically educated people 
+- Homphily on gender, ethnic background, or political opinion similarity surprisingly has little effects
+- Whether you know someone well seems more important than whether you look alike (on gender, ethnic background, political opinion) 
+
+This was a very cool paper to write and combines complicated Bayesian NSUM models and vignette experiments with a very important sociological topic -- i.e., discussing political may be a vehicle to de-polarize society. Here is the [replication website to the paper](https://politicaltalk.netlify.app/){target="_blank"}.
