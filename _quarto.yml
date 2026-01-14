@@ -60,7 +60,7 @@ website:
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg' alt='GitHub' width='15' height='15' style='vertical-align: middle; filter: invert(100%);' /> </a><br>
         Source code on my <a href='https://github.com/bhofstra/aca-web' target='_blank'>GitHub repo</a>"
       left: |
-        <span class="faux-block">{{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}  2025 Bas Hofstra </span> <br>
+        <span class="faux-block">{{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}  2026 Bas Hofstra </span> <br>
         <span class="faux-block">All content licensed under <br>
         [{{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
 

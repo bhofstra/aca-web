@@ -10,11 +10,23 @@ title: "News"
 ::: {.column width="1/3"}
 <div class="news-card">
 
+#### **National Expertisecentrum Wetenschap en Samenleving - Over ons werk**
+
+National Expertisecentrum Wetenschap en Samenleving besteedde onlangs aandacht aan ons werk over wetenschappers in de media. <br> <br>
+
+[Read more →](news/natexp2025.qmd)
+</div>
+:::
+
+
+::: {.column width="1/3"}
+<div class="news-card">
+
 #### **Interview on national radio about Social Networks study**
 
 I was interview on NPO Radio 5 about how to keep Christmas diners nice when families discuss politics. <br> <br>
 
-[Read more →](news/nporadio5.qmd)
+[Read more →](news/nporadio52025.qmd)
 </div>
 :::
 
