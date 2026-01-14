@@ -10,6 +10,17 @@ title: "News"
 ::: {.column width="1/3"}
 <div class="news-card">
 
+#### **Interview on national radio about Social Networks study**
+
+I was interview on NPO Radio 5 about how to keep Christmas diners nice when families discuss politics. <br> <br>
+
+[Read more →](news/nporadio5.qmd)
+</div>
+:::
+
+::: {.column width="1/3"}
+<div class="news-card">
+
 #### **A new paper published in Social Networks**
 
 We just published an open access study in Social Networks! Click here if you're interested in political discussions. <br> <br>
