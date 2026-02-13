@@ -10,6 +10,17 @@ title: "News"
 ::: {.column width="1/3"}
 <div class="news-card">
 
+#### **New Study in Research in Social Stratification and Mobility**
+
+We just published a new, open access study in RSSM! Click here if you're interested in salary differences among PhD holders. <br> <br>
+
+[Read more →](news/rssm2026.qmd)
+</div>
+:::
+
+::: {.column width="1/3"}
+<div class="news-card">
+
 #### **National Expertisecentrum Wetenschap en Samenleving - Over ons werk**
 
 National Expertisecentrum Wetenschap en Samenleving besteedde onlangs aandacht aan ons werk over wetenschappers in de media. <br> <br>

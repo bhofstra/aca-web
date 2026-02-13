@@ -1,0 +1,23 @@
+---
+title: "New Study in Research in Social Stratification and Mobility"
+date: 2026-02-13
+categories: [Science, News, Inequities, Public Sociology]
+---
+
+Check out this new, open access paper in Research in Social Stratification and Mobility. Anne Maaike Mulders expertly led our author team (with Christoph Janietz Jochem Tolsma myself) to find another important piece of the gender inequity puzzle in Dutch academia.
+
+It combines longitudinal register data on salaries and, uniquely, matches that to survey data on PhD holders to follow their careers. This enables to precisely pinpoint how gender inequities in salaries develop after a PhD both within *and outside* the university (and what mechanisms increase or decrease such gender differences).
+
+What do we find?
+
+-   Women are underpaid compared to men, even in early career stages, about €171 less per month than men.
+-   The gender pay gap increases with time.
+-   Academia pays more in the long run.
+
+Since women with a PhD leave the university earlier and at higher rates than men, they disproportionately miss out on the long-term financial returns associated with a job at the university. 💸
+
+🔬 You can find the paper [**here**](https://www.sciencedirect.com/science/article/pii/S0276562426000132){target="_blank"}.
+
+📈 You can find the replication website to the paper [**here**](https://leaving-settling.netlify.app/){target="_blank"}.
+
+📰 You can find the Radboud University press release [**here**](https://www.ru.nl/onderzoek/onderzoeksnieuws/loonkloof-onder-wetenschappers-stopt-niet-bij-de-universiteit){target="_blank"}.
