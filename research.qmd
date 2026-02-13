@@ -12,6 +12,11 @@ Check out my work! Most of my recent papers have full replication websites under
 
 
 <!------------------------------------------->
+<!--- HIGHER EDUCATION 2026 --->
+<!------------------------------------------->
+
+
+<!------------------------------------------->
 <!--- RSSM 2026 --->
 <!------------------------------------------->
 
@@ -20,7 +25,7 @@ Check out my work! Most of my recent papers have full replication websites under
   <tr>
     <!-- Left column: publication text -->
     <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
-Mulders, A.M., Janietz, C., Hofstra, B., & Tolsma, J. (2026). Leaving for More or Settling for Less: Gendered Salary Trajectories After Leaving Academia. ***Research in Social Stratification and Mobility, 102***, 101132.
+Mulders, A.M., Janietz, C., **Hofstra, B.**, & Tolsma, J. (2026). Leaving for More or Settling for Less: Gendered Salary Trajectories After Leaving Academia. ***Research in Social Stratification and Mobility, 102***, 101132.
 </td>
     <!-- Right column: altmetric donut badge -->
     <td style="vertical-align: middle; width: 5%; text-align: center;">
