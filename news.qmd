@@ -6,6 +6,16 @@ title: "News"
 
 ::: {.columns}
 
+::: {.column width="1/3"}
+<div class="news-card">
+
+#### **LISS panel grant award!**
+
+Myself, Rense Corten, and Beate Volker were just awarded a LISS panel grant. <br> <br>
+
+[Read more →](news/liss2026.qmd)
+</div>
+:::
 
 ::: {.column width="1/3"}
 <div class="news-card">
