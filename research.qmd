@@ -20,7 +20,7 @@ Check out my work! Most of my recent papers have full replication websites under
   <tr>
     <!-- Left column: publication text -->
     <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
-Herman, A.C., Andersen J.P., **Hofstra, B.**, & Nielsen, M.W. (2026). The Geographical Diversity of the Citation Elite in STEMM is Decreasing, Even as the Overall Scientific Workforce Has Diversified. ***Higher Education***.
+Herman, A.C., Andersen J.P., **Hofstra, B.**, & Nielsen, M.W. (2026). The Geographical Diversity of the Citation Elite in STEMM is Decreasing, Even as the Overall Scientific Workforce has Diversified. ***Higher Education***.
 </td>
     <!-- Right column: altmetric donut badge -->
     <td style="vertical-align: middle; width: 5%; text-align: center;">
