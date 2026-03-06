@@ -16,6 +16,49 @@ Check out my work! Most of my recent papers have full replication websites under
 <!------------------------------------------->
 
 
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- Left column: publication text -->
+    <td style="vertical-align: middle; padding-right: 10px; width: 95%;">
+Herman, A.C., Andersen J.P., **Hofstra, B.**, & Nielsen, M.W. (2026). The Geographical Diversity of the Citation Elite in STEMM is Decreasing, Even as the Overall Scientific Workforce Has Diversified. ***Higher Education***.
+</td>
+    <!-- Right column: altmetric donut badge -->
+    <td style="vertical-align: middle; width: 5%; text-align: center;">
+      <span class="altmetric-embed" data-doi="doi.org/10.1007/s10734-026-01640-2" data-badge-type="donut" data-hide-no-mentions="true"></span>
+    </td>
+  </tr>
+</table>
+
+<a href=https://link.springer.com/article/10.1007/s10734-026-01640-2 class="btn btn-outline-secondary btn-sm" target="_blank">
+ 🌐 View Article
+</a>
+<a href=https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nx7pDywAAAAJ&sortby=pubdate&citation_for_view=Nx7pDywAAAAJ:_Qo2XoVZTnwC class="btn btn-outline-secondary btn-sm" target="_blank">
+ 🎓 Google Scholar
+</a>
+<a href="files/highereducation2026.pdf" class="btn btn-outline-secondary btn-sm" target="_blank">
+ 📄 View PDF
+</a>
+<a href=https://osf.io/agn35/overview class="btn btn-outline-secondary btn-sm" target="_blank">
+ <i class="bi bi-github" style="margin-right: 6px;"></i> View Code
+</a>
+<button class="btn btn-outline-secondary btn-sm" onclick="copyBibtex('he2026')">
+ 📋 Copy BibTeX
+</button>
+
+<!-- Hidden BibTeX Entry -->
+<pre id="he2026" style="display:none;">
+@article{herman2026diversity,
+  title={The Geographical Diversity of the Citation Elite in STEMM is Decreasing, Even as the Overall Scientific Workforce Has Diversified},
+  author={Herman, Andrew Christopher, Anderson, Jens Peter, Hofstra, Bas and Nielsen, Mathias Wullum},
+  journal={Higher Education},
+  volume={},
+  pages={},
+  year={2026},
+  publisher={Springer}
+}
+</pre>
+
+
 <!------------------------------------------->
 <!--- RSSM 2026 --->
 <!------------------------------------------->
