@@ -1,6 +1,6 @@
 ---
 title: "Bas Hofstra"
-image: "files/IMG_9521.png"
+image: "files/bas1.png"
 execute: 
   echo: false
   warning: false
